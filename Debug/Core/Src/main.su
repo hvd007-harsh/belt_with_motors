@@ -1,0 +1,14 @@
+../Core/Src/main.c:107:7:average	16	static
+../Core/Src/main.c:110:6:map	24	static
+../Core/Src/main.c:115:6:send_uart	24	static
+../Core/Src/main.c:120:6:held_press	8	static
+../Core/Src/main.c:138:6:inflation_On	24	static
+../Core/Src/main.c:179:6:inflation_Off	8	static
+../Core/Src/main.c:198:9:noise_removal	48	static
+../Core/Src/main.c:209:7:noise_removal_float	48	static
+../Core/Src/main.c:221:6:walker	56	static
+../Core/Src/main.c:264:6:sit_checker	56	static
+../Core/Src/main.c:439:6:stand_checker	56	static
+../Core/Src/main.c:615:5:main	16	static
+../Core/Src/main.c:763:6:SystemClock_Config	72	static
+../Core/Src/main.c:797:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../Core/Src/icm20948.c:17:19:ICM20948_WriteRegister	32	static
+../Core/Src/icm20948.c:23:19:SelectBank	16	static
+../Core/Src/icm20948.c:27:9:ICM20948_Init	40	static
+../Core/Src/icm20948.c:81:6:ICM20948_Read_Accel	40	static
+../Core/Src/icm20948.c:98:6:ICM20948_Read_Gyro	40	static
